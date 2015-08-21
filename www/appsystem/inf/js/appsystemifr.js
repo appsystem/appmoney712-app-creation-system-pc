@@ -1,0 +1,1 @@
+document.body.style.width = window.innerWidth*0.88+'px';

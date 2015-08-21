@@ -1,0 +1,1 @@
+/*$(document).on('pageshow', '#web11', function(){*//*webjs3*/;play("11","6","3","1","1","");/*webjs3*//*webjs1*/;rps("11","1");/*webjs1*//*webjs2*/;bigger("11","2",30);/*webjs2*//*});*/

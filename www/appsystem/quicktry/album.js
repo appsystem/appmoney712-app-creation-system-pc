@@ -1,0 +1,2 @@
+/*$(document).on('pageshow', '#web12', function(){*//*webjs1*/
+			popupicsize("12","1","550","550",windowWidth,windowHeight);var swiper55 = new Swiper("#12swiper1", {nextButton: '.swiper-button-next', prevButton: '.swiper-button-prev',preloadImages: false,lazyLoading: true});/*webjs1*//*});*/

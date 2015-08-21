@@ -1,0 +1,12 @@
+﻿01 - AUG -2015 Copyright LEE WAI KWOK(JSTRUST CONSULTANCY)
+AppMoney712 APP Creation System
+license - Revised MIT.
+Please refer to Explanation Section in the software.
+---------------------------------------------------------------------------
+AppMoney712 移动应用设计系统
+license - 修订MIT。
+参考软件内的解释。
+---------------------------------------------------------------------------
+AppMoney712 移動應用設計系統
+license - 修訂MIT。
+參考軟件內的解釋。

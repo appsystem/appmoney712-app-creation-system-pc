@@ -1,0 +1,1332 @@
+- 15:21:35.094 INFO: --------------------------------------------------------
+- 15:21:35.094 INFO: Started application
+- 15:21:35.094 INFO: Logging to: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log
+- 15:21:35.094 INFO: Log level = DEBUG4
+- 15:21:35.094 INFO: Starting Mongoose 3.9c web server
+- 15:21:35.094 INFO: WWW directory: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\www
+- 15:21:35.094 INFO: Index files: index.html,index.php
+- 15:21:35.094 INFO: CGI interpreter: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\php\php-cgi.exe
+- 15:21:35.094 INFO: CGI pattern: **.php$
+- 15:21:35.094 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 15:21:35.094 INFO: Web server url: http://127.0.0.1:57384/
+- 15:21:35.094 INFO: remote_debugging_port = 50729
+- 15:21:35.141 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --remote-debugging-port=50729 --no-sandbox
+- 15:21:35.235 DEBUG: App::OnContextInitialized()
+- 15:21:35.235 DEBUG: Window max width/height = 1520/812
+- 15:21:35.235 DEBUG: GetBrowserWindow(): not found, hwnd = 4326028
+- 15:21:35.235 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 15:21:35.235 DEBUG: BrowserWindow::CreateBrowserControl()
+- 15:21:35.250 DEBUG: StoreBrowserWindow(): hwnd = 4326028
+- 15:21:35.266 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 15:21:35.281 DEBUG: ClientHandler::OnAfterCreated()
+- 15:21:35.281 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 15:21:35.281 INFO: DPI, ppix = 96, ppiy = 96
+- 15:21:35.281 INFO: DPI, browser zoom level = 0
+- 15:21:35.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="1420.0.888618559\1846064347" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" /prefetch:822062411
+- 15:21:35.328 DEBUG: OnLoadingStateChange: loading=1, url=
+- 15:21:35.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-accelerated-2d-canvas --channel="1420.1.1518849914\1375195500" /prefetch:673131151
+- 15:21:35.078 DEBUG: OnBrowserCreated()
+- 15:21:37.282 DEBUG: OnContextCreated()
+- 15:21:37.641 INFO: GET 200 /
+- 15:21:37.703 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57384/
+- 15:21:47.781 DEBUG: WM_DESTROY
+- 15:21:47.781 DEBUG: RemoveBrowserWindow(): hwnd = 4326028
+- 15:21:47.781 INFO: Stopping Mongoose web server
+- 15:21:47.781 DEBUG: Mongoose webserver stopped immediately
+- 15:21:47.781 DEBUG: RemoveBrowserWindow(): hwnd = 722060
+- 15:21:47.781 DEBUG: GetBrowserWindow(): not found, hwnd = 722060
+- 15:21:47.781 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 15:21:47.828 INFO: Ended application
+- 15:21:47.500 DEBUG: OnBrowserDestroyed()
+- 15:21:47.828 INFO: --------------------------------------------------------
+- 15:28:21.000 INFO: --------------------------------------------------------
+- 15:28:21.000 INFO: Started application
+- 15:28:21.000 INFO: Logging to: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log
+- 15:28:21.000 INFO: Log level = DEBUG4
+- 15:28:21.000 INFO: Starting Mongoose 3.9c web server
+- 15:28:21.000 INFO: WWW directory: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\www
+- 15:28:21.000 INFO: Index files: index.html,index.php
+- 15:28:21.000 INFO: CGI interpreter: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\php\php-cgi.exe
+- 15:28:21.000 INFO: CGI pattern: **.php$
+- 15:28:21.016 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 15:28:21.016 INFO: Web server url: http://127.0.0.1:57422/
+- 15:28:21.016 INFO: remote_debugging_port = 64624
+- 15:28:21.016 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --remote-debugging-port=64624 --no-sandbox
+- 15:28:21.047 DEBUG: App::OnContextInitialized()
+- 15:28:21.047 DEBUG: Window max width/height = 1520/812
+- 15:28:21.047 DEBUG: GetBrowserWindow(): not found, hwnd = 4916020
+- 15:28:21.047 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 15:28:21.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 15:28:21.047 DEBUG: StoreBrowserWindow(): hwnd = 4916020
+- 15:28:21.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="3276.0.1367174572\521846974" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" /prefetch:822062411
+- 15:28:21.125 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 15:28:21.125 DEBUG: ClientHandler::OnAfterCreated()
+- 15:28:21.125 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 15:28:21.125 INFO: DPI, ppix = 96, ppiy = 96
+- 15:28:21.125 INFO: DPI, browser zoom level = 0
+- 15:28:21.157 DEBUG: OnLoadingStateChange: loading=1, url=
+- 15:28:21.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-accelerated-2d-canvas --channel="3276.1.1627581391\111176959" /prefetch:673131151
+- 15:28:21.016 DEBUG: OnBrowserCreated()
+- 15:28:22.454 INFO: GET 200 /
+- 15:28:22.266 DEBUG: OnContextCreated()
+- 15:28:22.469 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57422/
+- 15:28:23.532 DEBUG: WM_DESTROY
+- 15:28:23.532 DEBUG: RemoveBrowserWindow(): hwnd = 4916020
+- 15:28:23.532 INFO: Stopping Mongoose web server
+- 15:28:23.532 DEBUG: Mongoose webserver stopped immediately
+- 15:28:23.532 DEBUG: RemoveBrowserWindow(): hwnd = 3539580
+- 15:28:23.532 DEBUG: GetBrowserWindow(): not found, hwnd = 3539580
+- 15:28:23.532 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 15:28:24.579 INFO: Ended application
+- 15:28:24.579 INFO: --------------------------------------------------------
+- 15:28:24.391 DEBUG: OnBrowserDestroyed()
+- 15:33:37.000 INFO: --------------------------------------------------------
+- 15:33:37.000 INFO: Started application
+- 15:33:37.000 INFO: Logging to: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log
+- 15:33:37.000 INFO: Log level = DEBUG4
+- 15:33:37.000 INFO: Starting Mongoose 3.9c web server
+- 15:33:37.000 INFO: WWW directory: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\www
+- 15:33:37.000 INFO: Index files: index.html,index.php
+- 15:33:37.000 INFO: CGI interpreter: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\php\php-cgi.exe
+- 15:33:37.000 INFO: CGI pattern: **.php$
+- 15:33:37.000 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 15:33:37.000 INFO: Web server url: http://127.0.0.1:57458/
+- 15:33:37.015 INFO: remote_debugging_port = 57616
+- 15:33:37.015 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --remote-debugging-port=57616 --no-sandbox
+- 15:33:37.031 DEBUG: App::OnContextInitialized()
+- 15:33:37.031 DEBUG: Window max width/height = 1520/812
+- 15:33:37.047 DEBUG: GetBrowserWindow(): not found, hwnd = 329240
+- 15:33:37.047 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 15:33:37.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 15:33:37.047 DEBUG: StoreBrowserWindow(): hwnd = 329240
+- 15:33:37.062 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 15:33:37.062 DEBUG: ClientHandler::OnAfterCreated()
+- 15:33:37.062 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 15:33:37.062 INFO: DPI, ppix = 96, ppiy = 96
+- 15:33:37.062 INFO: DPI, browser zoom level = 0
+- 15:33:37.109 DEBUG: OnLoadingStateChange: loading=1, url=
+- 15:33:37.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="2480.0.698507427\1404258533" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" /prefetch:822062411
+- 15:33:37.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-accelerated-2d-canvas --channel="2480.1.1379381341\70094503" /prefetch:673131151
+- 15:33:37.016 DEBUG: OnBrowserCreated()
+- 15:33:38.328 INFO: GET 200 /
+- 15:33:38.188 DEBUG: OnContextCreated()
+- 15:33:38.344 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57458/
+- 15:33:38.344 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57458/
+- 15:33:38.391 DEBUG: OnContextCreated()
+- 15:33:38.547 INFO: GET 200 /appsystem/css/appsystem.css
+- 15:33:38.547 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 15:33:39.594 INFO: GET 200 /appsystem/inf/design.php
+- 15:33:39.609 INFO: GET 200 /appsystem/js/jquery.js
+- 15:33:39.656 INFO: GET 200 /appsystem/js/appsystem.js
+- 15:33:39.687 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+- 15:33:39.687 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+[0801/153339:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:57458/appsystem/js/appsystem.js (296)
+- 15:33:39.890 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+- 15:33:39.890 INFO: GET 200 /appsystem/images/ux.jpg
+[0801/153339:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:57458/appsystem/js/appsystem.js (7)
+- 15:33:39.062 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57458/appsystem/inf/design.php
+- 15:33:49.703 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57458/appsystem/inf/design.php
+- 15:33:49.625 DEBUG: OnContextCreated()
+- 15:33:49.781 INFO: GET 200 /appsystem/inf/design.php?v=EN
+[0801/153349:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:57458/appsystem/js/appsystem.js (296)
+[0801/153349:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:57458/appsystem/js/appsystem.js (7)
+- 15:33:49.906 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57458/appsystem/inf/design.php?v=EN
+- 15:33:53.547 DEBUG: WM_DESTROY
+- 15:33:53.547 DEBUG: RemoveBrowserWindow(): hwnd = 329240
+- 15:33:53.547 INFO: Stopping Mongoose web server
+- 15:33:53.547 DEBUG: Mongoose webserver stopped immediately
+- 15:33:53.547 DEBUG: RemoveBrowserWindow(): hwnd = 262788
+- 15:33:53.547 DEBUG: GetBrowserWindow(): not found, hwnd = 262788
+- 15:33:53.547 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 15:33:54.594 INFO: Ended application
+- 15:33:54.594 INFO: --------------------------------------------------------
+- 15:37:18.000 INFO: --------------------------------------------------------
+- 15:37:18.000 INFO: Started application
+- 15:37:18.000 INFO: Logging to: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log
+- 15:37:18.000 INFO: Log level = DEBUG4
+- 15:37:18.000 INFO: Starting Mongoose 3.9c web server
+- 15:37:18.000 INFO: WWW directory: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\www
+- 15:37:18.000 INFO: Index files: index.html,index.php
+- 15:37:18.000 INFO: CGI interpreter: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\php\php-cgi.exe
+- 15:37:18.000 INFO: CGI pattern: **.php$
+- 15:37:18.000 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 15:37:18.000 INFO: Web server url: http://127.0.0.1:57472/
+- 15:37:18.000 INFO: remote_debugging_port = 63232
+- 15:37:18.000 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --remote-debugging-port=63232 --no-sandbox
+- 15:37:19.063 DEBUG: App::OnContextInitialized()
+- 15:37:19.063 DEBUG: Window max width/height = 1520/812
+- 15:37:19.063 DEBUG: GetBrowserWindow(): not found, hwnd = 1967490
+- 15:37:19.063 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 15:37:19.063 DEBUG: BrowserWindow::CreateBrowserControl()
+- 15:37:19.063 DEBUG: StoreBrowserWindow(): hwnd = 1967490
+- 15:37:19.079 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 15:37:19.094 DEBUG: ClientHandler::OnAfterCreated()
+- 15:37:19.094 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 15:37:19.094 INFO: DPI, ppix = 96, ppiy = 96
+- 15:37:19.094 INFO: DPI, browser zoom level = 0
+- 15:37:19.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="2916.0.2070598747\1157115673" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" /prefetch:822062411
+- 15:37:19.157 DEBUG: OnLoadingStateChange: loading=1, url=
+- 15:37:19.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-accelerated-2d-canvas --channel="2916.1.941289374\571093614" /prefetch:673131151
+- 15:37:19.016 DEBUG: OnBrowserCreated()
+- 15:37:20.438 INFO: GET 200 /
+- 15:37:20.250 DEBUG: OnContextCreated()
+- 15:37:20.438 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57472/
+- 15:37:20.438 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57472/
+- 15:37:20.344 DEBUG: OnContextCreated()
+- 15:37:20.532 INFO: GET 200 /appsystem/css/appsystem.css
+- 15:37:20.547 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 15:37:20.547 INFO: GET 200 /appsystem/js/jquery.js
+- 15:37:20.547 INFO: GET 200 /appsystem/inf/design.php
+- 15:37:20.579 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+- 15:37:20.579 INFO: GET 200 /appsystem/js/appsystem.js
+- 15:37:20.719 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+- 15:37:20.797 INFO: GET 200 /appsystem/images/ux.jpg
+[0801/153720:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:57472/appsystem/js/appsystem.js (296)
+- 15:37:20.813 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+[0801/153720:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:57472/appsystem/js/appsystem.js (7)
+- 15:37:20.016 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57472/appsystem/inf/design.php
+- 15:37:27.000 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57472/appsystem/inf/design.php
+- 15:37:28.891 DEBUG: OnContextCreated()
+- 15:37:28.079 INFO: GET 200 /appsystem/inf/design.php?v=EN
+[0801/153728:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:57472/appsystem/js/appsystem.js (296)
+[0801/153728:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:57472/appsystem/js/appsystem.js (7)
+- 15:37:28.219 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57472/appsystem/inf/design.php?v=EN
+- 15:37:55.063 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57472/appsystem/inf/design.php?v=EN
+- 15:37:55.063 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57472/appsystem/inf/design.php?v=EN#&ui-state=dialog
+- 15:37:55.063 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57472/appsystem/inf/design.php?v=EN#&ui-state=dialog
+- 15:37:55.063 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57472/appsystem/inf/design.php?v=EN#&ui-state=dialog
+- 15:37:57.422 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57472/appsystem/inf/design.php?v=EN#&ui-state=dialog
+- 15:37:57.734 DEBUG: OnContextCreated()
+- 15:37:57.954 INFO: GET 200 /appsystem/inf/menudesign.php
+- 15:37:58.094 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57472/appsystem/inf/menudesign.php
+- 15:44:19.266 DEBUG: WM_DESTROY
+- 15:44:19.266 DEBUG: RemoveBrowserWindow(): hwnd = 1967490
+- 15:44:19.266 INFO: Stopping Mongoose web server
+- 15:44:19.266 DEBUG: Mongoose webserver stopped immediately
+- 15:44:19.266 DEBUG: RemoveBrowserWindow(): hwnd = 2688772
+- 15:44:19.266 DEBUG: GetBrowserWindow(): not found, hwnd = 2688772
+- 15:44:19.266 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 15:44:19.297 INFO: Ended application
+- 15:44:19.297 INFO: --------------------------------------------------------
+- 15:44:23.000 INFO: --------------------------------------------------------
+- 15:44:23.000 INFO: Started application
+- 15:44:23.000 INFO: Logging to: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log
+- 15:44:23.000 INFO: Log level = DEBUG4
+- 15:44:23.000 INFO: Starting Mongoose 3.9c web server
+- 15:44:23.000 INFO: WWW directory: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\www
+- 15:44:23.000 INFO: Index files: index.html,index.php
+- 15:44:23.000 INFO: CGI interpreter: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\php\php-cgi.exe
+- 15:44:23.000 INFO: CGI pattern: **.php$
+- 15:44:23.000 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 15:44:23.016 INFO: Web server url: http://127.0.0.1:57533/
+- 15:44:23.016 INFO: remote_debugging_port = 63365
+- 15:44:23.016 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --remote-debugging-port=63365 --no-sandbox
+- 15:44:23.047 DEBUG: App::OnContextInitialized()
+- 15:44:23.047 DEBUG: Window max width/height = 1520/812
+- 15:44:23.047 DEBUG: GetBrowserWindow(): not found, hwnd = 1116422
+- 15:44:23.047 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 15:44:23.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 15:44:23.047 DEBUG: StoreBrowserWindow(): hwnd = 1116422
+- 15:44:23.063 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 15:44:23.063 DEBUG: ClientHandler::OnAfterCreated()
+- 15:44:23.063 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 15:44:23.063 INFO: DPI, ppix = 96, ppiy = 96
+- 15:44:23.063 INFO: DPI, browser zoom level = 0
+- 15:44:23.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="5596.0.1888972874\143033352" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" /prefetch:822062411
+- 15:44:23.141 DEBUG: OnLoadingStateChange: loading=1, url=
+- 15:44:23.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-accelerated-2d-canvas --channel="5596.1.1312563219\1896648648" /prefetch:673131151
+- 15:44:23.016 DEBUG: OnBrowserCreated()
+- 15:44:24.250 DEBUG: OnContextCreated()
+- 15:44:24.422 INFO: GET 200 /
+- 15:44:24.422 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/
+- 15:44:24.422 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/
+- 15:44:24.359 DEBUG: OnContextCreated()
+- 15:44:24.531 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 15:44:24.531 INFO: GET 200 /appsystem/css/appsystem.css
+- 15:44:24.547 INFO: GET 200 /appsystem/inf/design.php
+- 15:44:24.578 INFO: GET 200 /appsystem/js/appsystem.js
+- 15:44:24.578 INFO: GET 200 /appsystem/js/jquery.js
+- 15:44:24.578 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+- 15:44:24.703 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+- 15:44:25.781 INFO: GET 200 /appsystem/images/ux.jpg
+[0801/154425:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:57533/appsystem/js/appsystem.js (296)
+- 15:44:25.797 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+[0801/154425:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:57533/appsystem/js/appsystem.js (7)
+- 15:44:25.969 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/design.php
+- 15:44:27.031 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/appsystem/inf/design.php
+- 15:44:27.922 DEBUG: OnContextCreated()
+- 15:44:27.110 INFO: GET 200 /appsystem/inf/design.php?v=EN
+[0801/154427:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:57533/appsystem/js/appsystem.js (296)
+[0801/154427:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:57533/appsystem/js/appsystem.js (7)
+- 15:44:27.235 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/design.php?v=EN
+- 15:44:30.969 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/appsystem/inf/design.php?v=EN
+- 15:44:30.969 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/design.php?v=EN#&ui-state=dialog
+- 15:44:30.969 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/appsystem/inf/design.php?v=EN#&ui-state=dialog
+- 15:44:30.969 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/design.php?v=EN#&ui-state=dialog
+- 15:44:31.969 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/appsystem/inf/design.php?v=EN#&ui-state=dialog
+- 15:44:31.859 DEBUG: OnContextCreated()
+- 15:44:31.047 INFO: GET 200 /appsystem/inf/menudesign.php
+- 15:44:31.172 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/menudesign.php
+- 15:44:48.922 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/appsystem/inf/menudesign.php
+- 15:44:48.922 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/menudesign.php#&ui-state=dialog
+- 15:44:48.922 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/appsystem/inf/menudesign.php#&ui-state=dialog
+- 15:44:48.922 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/menudesign.php#&ui-state=dialog
+- 15:44:50.141 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/appsystem/inf/menudesign.php#&ui-state=dialog
+- 15:44:50.141 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/menudesign.php
+- 15:44:51.078 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/appsystem/inf/menudesign.php
+- 15:44:51.078 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/menudesign.php#&ui-state=dialog
+- 15:44:51.078 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/appsystem/inf/menudesign.php#&ui-state=dialog
+- 15:44:51.078 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/menudesign.php#&ui-state=dialog
+- 15:44:52.860 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/appsystem/inf/menudesign.php#&ui-state=dialog
+- 15:44:52.781 DEBUG: OnContextCreated()
+- 15:44:52.969 INFO: GET 200 /appsystem/inf/explanation.php
+- 15:44:52.047 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/explanation.php
+- 15:44:53.625 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/appsystem/inf/explanation.php
+- 15:44:53.625 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/explanation.php#&ui-state=dialog
+- 15:44:53.625 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/appsystem/inf/explanation.php#&ui-state=dialog
+- 15:44:53.625 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/explanation.php#&ui-state=dialog
+- 15:44:55.031 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57533/appsystem/inf/explanation.php#&ui-state=dialog
+- 15:44:55.953 DEBUG: OnContextCreated()
+- 15:44:55.125 INFO: GET 200 /appsystem/inf/tool.php
+[0801/154455:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:57533/appsystem/js/appsystem.js (296)
+[0801/154455:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:57533/appsystem/js/appsystem.js (7)
+- 15:44:55.203 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/tool.php
+- 15:44:57.219 DEBUG: ClientHandler::OnBeforePopup()
+- 15:44:57.219 INFO: Setting default size for a popup window 1024/768
+- 15:44:57.219 DEBUG: Window max width/height = 1520/812
+- 15:44:57.047 DEBUG: OnBrowserCreated()
+- 15:44:57.219 DEBUG: ClientHandler::OnAfterCreated()
+- 15:44:57.219 DEBUG: GetBrowserWindow(): not found, hwnd = 2491778
+- 15:44:57.219 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 15:44:57.219 DEBUG: StoreBrowserWindow(): hwnd = 2491778
+- 15:44:57.219 DEBUG: Centering popup window relative to its parent
+- 15:44:57.235 DEBUG: OnLoadingStateChange: loading=1, url=
+- 15:44:57.422 INFO: GET 200 /appsystem/inf/colorpicker.php
+- 15:44:57.250 DEBUG: OnContextCreated()
+- 15:44:57.469 INFO: GET 200 /appsystem/js/colorpicker.js
+[0801/154457:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:57533/appsystem/js/appsystem.js (296)
+[0801/154457:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:57533/appsystem/js/appsystem.js (7)
+- 15:44:57.531 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57533/appsystem/inf/colorpicker.php
+- 15:45:13.188 DEBUG: RemoveBrowserWindow(): hwnd = 2491778
+- 15:45:13.047 DEBUG: OnBrowserDestroyed()
+- 15:45:15.469 DEBUG: WM_DESTROY
+- 15:45:15.469 DEBUG: RemoveBrowserWindow(): hwnd = 1116422
+- 15:45:15.469 INFO: Stopping Mongoose web server
+- 15:45:15.469 DEBUG: Mongoose webserver stopped immediately
+- 15:45:15.469 DEBUG: RemoveBrowserWindow(): hwnd = 1705756
+- 15:45:15.469 DEBUG: GetBrowserWindow(): not found, hwnd = 1705756
+- 15:45:15.469 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 15:45:15.531 INFO: Ended application
+- 15:45:15.531 INFO: --------------------------------------------------------
+- 15:55:28.000 INFO: --------------------------------------------------------
+- 15:55:28.000 INFO: Started application
+- 15:55:28.000 INFO: Logging to: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log
+- 15:55:28.000 INFO: Log level = DEBUG4
+- 15:55:28.000 INFO: Starting Mongoose 3.9c web server
+- 15:55:28.000 INFO: WWW directory: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\www
+- 15:55:28.000 INFO: Index files: index.html,index.php
+- 15:55:28.000 INFO: CGI interpreter: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\php\php-cgi.exe
+- 15:55:28.000 INFO: CGI pattern: **.php$
+- 15:55:28.000 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 15:55:28.016 INFO: Web server url: http://127.0.0.1:57560/
+- 15:55:28.016 INFO: remote_debugging_port = 56368
+- 15:55:28.016 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --remote-debugging-port=56368 --no-sandbox
+- 15:55:29.047 DEBUG: App::OnContextInitialized()
+- 15:55:29.047 DEBUG: Window max width/height = 1520/812
+- 15:55:29.047 DEBUG: GetBrowserWindow(): not found, hwnd = 8847876
+- 15:55:29.047 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 15:55:29.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 15:55:29.047 DEBUG: StoreBrowserWindow(): hwnd = 8847876
+- 15:55:29.063 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 15:55:29.063 DEBUG: ClientHandler::OnAfterCreated()
+- 15:55:29.063 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 15:55:29.063 INFO: DPI, ppix = 96, ppiy = 96
+- 15:55:29.063 INFO: DPI, browser zoom level = 0
+- 15:55:29.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="5836.0.1306847508\665905164" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" /prefetch:822062411
+- 15:55:29.109 DEBUG: OnLoadingStateChange: loading=1, url=
+- 15:55:29.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-accelerated-2d-canvas --channel="5836.1.287603781\875759919" /prefetch:673131151
+- 15:55:29.032 DEBUG: OnBrowserCreated()
+- 15:55:30.359 INFO: GET 200 /
+- 15:55:30.203 DEBUG: OnContextCreated()
+- 15:55:30.359 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/
+- 15:55:30.359 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/
+- 15:55:30.297 DEBUG: OnContextCreated()
+- 15:55:30.453 INFO: GET 200 /appsystem/css/appsystem.css
+- 15:55:30.453 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 15:55:30.469 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+- 15:55:30.484 INFO: GET 200 /appsystem/js/jquery.js
+- 15:55:30.500 INFO: GET 200 /appsystem/inf/design.php
+- 15:55:30.578 INFO: GET 200 /appsystem/js/appsystem.js
+- 15:55:30.625 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+[0801/155530:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:57560/appsystem/js/appsystem.js (296)
+- 15:55:30.719 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+- 15:55:30.719 INFO: GET 200 /appsystem/images/ux.jpg
+[0801/155530:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:57560/appsystem/js/appsystem.js (7)
+- 15:55:30.906 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/design.php
+- 15:55:34.563 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/design.php
+- 15:55:34.563 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/design.php#&ui-state=dialog
+- 15:55:34.563 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/design.php#&ui-state=dialog
+- 15:55:34.563 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/design.php#&ui-state=dialog
+- 15:55:36.266 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/design.php#&ui-state=dialog
+- 15:55:36.172 DEBUG: OnContextCreated()
+- 15:55:36.344 INFO: GET 200 /appsystem/inf/menudesign.php
+- 15:55:36.500 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php
+[0801/155545:INFO:CONSOLE(122)] "Uncaught ReferenceError: checkform is not defined", source: http://127.0.0.1:57560/appsystem/inf/menudesign.php (122)
+- 15:55:45.453 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php
+- 15:55:45.360 DEBUG: OnContextCreated()
+- 15:55:45.594 INFO: POST 200 /appsystem/inf/menudesign.php?pj=&ap=&alt=
+- 15:55:45.703 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=&ap=&alt=
+- 15:55:45.719 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=&ap=&alt=
+- 15:55:45.657 DEBUG: OnContextCreated()
+- 15:55:45.828 INFO: GET 200 /appsystem/inf/menudesign.php?pj=1&alt=
+- 15:55:45.953 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1&alt=
+- 15:55:50.734 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1&alt=
+- 15:55:50.719 DEBUG: OnContextCreated()
+- 15:55:50.891 INFO: GET 200 /appsystem/inf/project.php
+- 15:55:50.969 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/project.php
+- 15:55:55.156 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/project.php
+- 15:55:55.063 DEBUG: OnContextCreated()
+- 15:55:55.234 INFO: GET 200 /appsystem/inf/menudesign.php?pj=1
+- 15:55:55.359 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1
+- 15:55:59.656 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1
+- 15:55:59.656 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1#&ui-state=dialog
+- 15:55:59.656 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1#&ui-state=dialog
+- 15:55:59.656 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1#&ui-state=dialog
+- 15:56:02.156 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1#&ui-state=dialog
+- 15:56:02.156 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1
+- 15:56:02.031 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1
+- 15:56:02.031 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1#&ui-state=dialog
+- 15:56:02.031 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1#&ui-state=dialog
+- 15:56:02.031 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1#&ui-state=dialog
+- 15:56:07.891 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1#&ui-state=dialog
+- 15:56:07.891 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1
+- 15:56:12.391 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1
+- 15:56:12.313 DEBUG: OnContextCreated()
+- 15:56:12.484 INFO: GET 200 /appsystem/inf/menudesign.php?pj=1&alt=panelbtn
+- 15:56:12.609 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1&alt=panelbtn
+- 15:56:29.047 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1&alt=panelbtn
+- 15:56:29.047 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1&alt=panelbtn#&ui-state=dialog
+- 15:56:29.063 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1&alt=panelbtn#&ui-state=dialog
+- 15:56:29.063 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1&alt=panelbtn#&ui-state=dialog
+- 15:56:30.156 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57560/appsystem/inf/menudesign.php?pj=1&alt=panelbtn#&ui-state=dialog
+- 15:56:30.063 DEBUG: OnContextCreated()
+- 15:56:30.234 INFO: GET 200 /appsystem/inf/explanation.php
+- 15:56:30.391 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57560/appsystem/inf/explanation.php
+- 15:59:27.094 DEBUG: WM_DESTROY
+- 15:59:27.094 DEBUG: RemoveBrowserWindow(): hwnd = 8847876
+- 15:59:27.094 INFO: Stopping Mongoose web server
+- 15:59:27.094 DEBUG: Mongoose webserver stopped immediately
+- 15:59:27.094 DEBUG: RemoveBrowserWindow(): hwnd = 3541428
+- 15:59:27.094 DEBUG: GetBrowserWindow(): not found, hwnd = 3541428
+- 15:59:27.094 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 15:59:27.141 INFO: Ended application
+- 15:59:27.141 INFO: --------------------------------------------------------
+- 19:32:44.032 INFO: --------------------------------------------------------
+- 19:32:44.063 INFO: Started application
+- 19:32:44.063 INFO: Logging to: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log
+- 19:32:44.063 INFO: Log level = DEBUG4
+- 19:32:44.063 INFO: Starting Mongoose 3.9c web server
+- 19:32:44.063 INFO: WWW directory: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\www
+- 19:32:44.063 INFO: Index files: index.html,index.php
+- 19:32:44.063 INFO: CGI interpreter: C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\php\php-cgi.exe
+- 19:32:44.063 INFO: CGI pattern: **.php$
+- 19:32:44.063 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 19:32:44.063 INFO: Web server url: http://127.0.0.1:49810/
+- 19:32:44.063 INFO: remote_debugging_port = 64633
+- 19:32:44.063 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --remote-debugging-port=64633 --no-sandbox
+- 19:32:44.375 DEBUG: App::OnContextInitialized()
+- 19:32:44.375 DEBUG: Window max width/height = 1520/812
+- 19:32:44.375 DEBUG: GetBrowserWindow(): not found, hwnd = 66258
+- 19:32:44.375 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:32:44.375 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:32:44.375 DEBUG: StoreBrowserWindow(): hwnd = 66258
+- 19:32:44.407 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 19:32:44.422 DEBUG: ClientHandler::OnAfterCreated()
+- 19:32:44.422 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:32:44.422 INFO: DPI, ppix = 96, ppiy = 96
+- 19:32:44.422 INFO: DPI, browser zoom level = 0
+- 19:32:44.438 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:32:44.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=gpu-process --channel="3764.0.1367370722\1705222503" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" /prefetch:822062411
+- 19:32:44.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktop-chrome-31.8-php-5.4.33\debug.log" --disable-accelerated-2d-canvas --channel="3764.1.1168583140\758571091" /prefetch:673131151
+- 19:32:44.125 DEBUG: OnBrowserCreated()
+- 19:32:47.235 INFO: GET 200 /
+- 19:32:47.766 DEBUG: OnContextCreated()
+- 19:32:47.250 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49810/
+- 19:32:47.250 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49810/
+- 19:32:47.000 DEBUG: OnContextCreated()
+- 19:32:47.516 INFO: GET 200 /appsystem/inf/design.php
+- 19:32:47.579 INFO: GET 200 /appsystem/css/appsystem.css
+- 19:32:47.579 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 19:32:47.610 INFO: GET 200 /appsystem/js/appsystem.js
+- 19:32:47.704 INFO: GET 200 /appsystem/js/jquery.js
+- 19:32:47.750 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+- 19:32:47.797 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+[0801/193247:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:49810/appsystem/js/appsystem.js (296)
+- 19:32:48.000 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+- 19:32:48.016 INFO: GET 200 /appsystem/images/ux.jpg
+[0801/193248:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:49810/appsystem/js/appsystem.js (7)
+- 19:32:48.125 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49810/appsystem/inf/design.php
+- 19:34:57.922 DEBUG: WM_DESTROY
+- 19:34:57.922 DEBUG: RemoveBrowserWindow(): hwnd = 66258
+- 19:34:57.922 INFO: Stopping Mongoose web server
+- 19:34:57.922 DEBUG: Mongoose webserver stopped immediately
+- 19:34:57.922 DEBUG: RemoveBrowserWindow(): hwnd = 66272
+- 19:34:57.922 DEBUG: GetBrowserWindow(): not found, hwnd = 66272
+- 19:34:57.922 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 19:34:58.954 INFO: Ended application
+- 19:34:58.954 INFO: --------------------------------------------------------
+- 19:38:31.000 INFO: --------------------------------------------------------
+- 19:38:31.000 INFO: Started application
+- 19:38:31.000 INFO: Logging to: C:\phpdesktop\phpdesktopchromephp\debug.log
+- 19:38:31.000 INFO: Log level = DEBUG4
+- 19:38:31.000 INFO: Starting Mongoose 3.9c web server
+- 19:38:31.000 INFO: WWW directory: C:\phpdesktop\phpdesktopchromephp\www
+- 19:38:31.000 INFO: Index files: index.html,index.php
+- 19:38:31.000 INFO: CGI interpreter: C:\phpdesktop\phpdesktopchromephp\php\php-cgi.exe
+- 19:38:31.000 INFO: CGI pattern: **.php$
+- 19:38:31.000 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 19:38:31.016 INFO: Web server url: http://127.0.0.1:49851/
+- 19:38:31.016 INFO: remote_debugging_port = 56458
+- 19:38:31.016 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --remote-debugging-port=56458 --no-sandbox
+- 19:38:31.047 DEBUG: App::OnContextInitialized()
+- 19:38:31.047 DEBUG: Window max width/height = 1520/812
+- 19:38:31.047 DEBUG: GetBrowserWindow(): not found, hwnd = 197760
+- 19:38:31.047 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:38:31.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:38:31.047 DEBUG: StoreBrowserWindow(): hwnd = 197760
+- 19:38:31.094 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 19:38:31.110 DEBUG: ClientHandler::OnAfterCreated()
+- 19:38:31.110 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:38:31.110 INFO: DPI, ppix = 96, ppiy = 96
+- 19:38:31.110 INFO: DPI, browser zoom level = 0
+- 19:38:31.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=gpu-process --channel="5000.0.1703867600\1858618354" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" /prefetch:822062411
+- 19:38:31.141 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:38:31.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-accelerated-2d-canvas --channel="5000.1.428975191\2129336026" /prefetch:673131151
+- 19:38:31.015 DEBUG: OnBrowserCreated()
+- 19:38:33.407 INFO: GET 200 /
+- 19:38:33.265 DEBUG: OnContextCreated()
+- 19:38:33.422 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49851/
+- 19:38:33.422 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49851/
+- 19:38:33.343 DEBUG: OnContextCreated()
+- 19:38:33.516 INFO: GET 200 /appsystem/css/appsystem.css
+- 19:38:33.516 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 19:38:33.516 INFO: GET 200 /appsystem/inf/design.php
+- 19:38:33.547 INFO: GET 200 /appsystem/js/appsystem.js
+- 19:38:33.547 INFO: GET 200 /appsystem/js/jquery.js
+- 19:38:33.547 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+- 19:38:33.672 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+- 19:38:33.766 INFO: GET 200 /appsystem/images/ux.jpg
+[0801/193833:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:49851/appsystem/js/appsystem.js (296)
+- 19:38:33.782 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+[0801/193833:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:49851/appsystem/js/appsystem.js (7)
+- 19:38:33.985 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49851/appsystem/inf/design.php
+- 19:38:35.672 DEBUG: WM_DESTROY
+- 19:38:35.672 DEBUG: RemoveBrowserWindow(): hwnd = 197760
+- 19:38:35.672 INFO: Stopping Mongoose web server
+- 19:38:35.672 DEBUG: Mongoose webserver stopped immediately
+- 19:38:35.672 DEBUG: RemoveBrowserWindow(): hwnd = 197770
+- 19:38:35.672 DEBUG: GetBrowserWindow(): not found, hwnd = 197770
+- 19:38:35.672 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 19:38:35.719 INFO: Ended application
+- 19:38:35.719 INFO: --------------------------------------------------------
+- 19:38:36.000 INFO: --------------------------------------------------------
+- 19:38:36.000 INFO: Started application
+- 19:38:36.000 INFO: Logging to: C:\phpdesktop\phpdesktopchromephp\debug.log
+- 19:38:36.000 INFO: Log level = DEBUG4
+- 19:38:36.000 INFO: Starting Mongoose 3.9c web server
+- 19:38:36.000 INFO: WWW directory: C:\phpdesktop\phpdesktopchromephp\www
+- 19:38:36.000 INFO: Index files: index.html,index.php
+- 19:38:36.000 INFO: CGI interpreter: C:\phpdesktop\phpdesktopchromephp\php\php-cgi.exe
+- 19:38:36.000 INFO: CGI pattern: **.php$
+- 19:38:36.000 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 19:38:36.016 INFO: Web server url: http://127.0.0.1:49862/
+- 19:38:36.016 INFO: remote_debugging_port = 60672
+- 19:38:36.016 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --remote-debugging-port=60672 --no-sandbox
+- 19:38:36.047 DEBUG: App::OnContextInitialized()
+- 19:38:36.047 DEBUG: Window max width/height = 1520/812
+- 19:38:36.047 DEBUG: GetBrowserWindow(): not found, hwnd = 263300
+- 19:38:36.047 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:38:36.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:38:36.047 DEBUG: StoreBrowserWindow(): hwnd = 263300
+- 19:38:36.094 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 19:38:36.110 DEBUG: ClientHandler::OnAfterCreated()
+- 19:38:36.110 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:38:36.110 INFO: DPI, ppix = 96, ppiy = 96
+- 19:38:36.110 INFO: DPI, browser zoom level = 0
+- 19:38:36.015 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=gpu-process --channel="3840.0.908449910\2143329593" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" /prefetch:822062411
+- 19:38:36.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-accelerated-2d-canvas --channel="3840.1.65387228\1373149126" /prefetch:673131151
+- 19:38:36.156 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:38:36.031 DEBUG: OnBrowserCreated()
+- 19:38:38.375 INFO: GET 200 /
+- 19:38:38.250 DEBUG: OnContextCreated()
+- 19:38:38.391 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49862/
+- 19:38:38.391 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49862/
+- 19:38:38.328 DEBUG: OnContextCreated()
+- 19:38:38.469 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 19:38:38.485 INFO: GET 200 /appsystem/css/appsystem.css
+- 19:38:38.500 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+- 19:38:38.500 INFO: GET 200 /appsystem/inf/design.php
+- 19:38:38.594 INFO: GET 200 /appsystem/js/jquery.js
+- 19:38:38.594 INFO: GET 200 /appsystem/js/appsystem.js
+- 19:38:38.594 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+- 19:38:38.719 INFO: GET 200 /appsystem/images/ux.jpg
+[0801/193838:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:49862/appsystem/js/appsystem.js (296)
+- 19:38:38.735 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+[0801/193838:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:49862/appsystem/js/appsystem.js (7)
+- 19:38:38.891 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49862/appsystem/inf/design.php
+- 19:38:39.766 DEBUG: WM_DESTROY
+- 19:38:39.766 DEBUG: RemoveBrowserWindow(): hwnd = 263300
+- 19:38:39.766 INFO: Stopping Mongoose web server
+- 19:38:39.766 DEBUG: Mongoose webserver stopped immediately
+- 19:38:39.766 DEBUG: RemoveBrowserWindow(): hwnd = 721514
+- 19:38:39.766 DEBUG: GetBrowserWindow(): not found, hwnd = 721514
+- 19:38:39.766 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 19:38:39.797 INFO: Ended application
+- 19:38:39.797 INFO: --------------------------------------------------------
+- 19:42:43.000 INFO: --------------------------------------------------------
+- 19:42:43.000 INFO: Started application
+- 19:42:43.000 INFO: Logging to: C:\phpdesktop\phpdesktopchromephp\debug.log
+- 19:42:43.000 INFO: Log level = DEBUG4
+- 19:42:43.000 INFO: Starting Mongoose 3.9c web server
+- 19:42:43.000 INFO: WWW directory: C:\phpdesktop\phpdesktopchromephp\www
+- 19:42:43.000 INFO: Index files: index.html,index.php
+- 19:42:43.000 INFO: CGI interpreter: C:\phpdesktop\phpdesktopchromephp\php\php-cgi.exe
+- 19:42:43.000 INFO: CGI pattern: **.php$
+- 19:42:43.000 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 19:42:43.000 INFO: Web server url: http://127.0.0.1:49959/
+- 19:42:43.000 INFO: remote_debugging_port = 49757
+- 19:42:43.000 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --remote-debugging-port=49757 --no-sandbox
+- 19:42:43.047 DEBUG: App::OnContextInitialized()
+- 19:42:43.047 DEBUG: Window max width/height = 1520/812
+- 19:42:43.047 DEBUG: GetBrowserWindow(): not found, hwnd = 394028
+- 19:42:43.047 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:42:43.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:42:43.047 DEBUG: StoreBrowserWindow(): hwnd = 394028
+- 19:42:43.094 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 19:42:43.094 DEBUG: ClientHandler::OnAfterCreated()
+- 19:42:43.094 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:42:43.094 INFO: DPI, ppix = 96, ppiy = 96
+- 19:42:43.094 INFO: DPI, browser zoom level = 0
+- 19:42:43.141 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:42:43.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-accelerated-2d-canvas --channel="3616.1.1600448016\402500595" /prefetch:673131151
+- 19:42:43.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=gpu-process --channel="3616.0.1684404915\1811856311" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" /prefetch:822062411
+- 19:42:43.031 DEBUG: OnBrowserCreated()
+- 19:42:44.359 INFO: GET 200 /
+- 19:42:45.234 DEBUG: OnContextCreated()
+- 19:42:45.375 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49959/
+- 19:42:45.375 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49959/
+- 19:42:45.312 DEBUG: OnContextCreated()
+- 19:42:45.469 INFO: GET 200 /appsystem/inf/design.php
+- 19:42:45.469 INFO: GET 200 /appsystem/css/appsystem.css
+- 19:42:45.469 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 19:42:45.484 INFO: GET 200 /appsystem/js/jquery.js
+- 19:42:45.484 INFO: GET 200 /appsystem/js/appsystem.js
+- 19:42:45.484 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+- 19:42:45.641 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+[0801/194245:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:49959/appsystem/js/appsystem.js (296)
+- 19:42:45.734 INFO: GET 200 /appsystem/images/ux.jpg
+- 19:42:45.797 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+[0801/194245:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:49959/appsystem/js/appsystem.js (7)
+- 19:42:45.953 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49959/appsystem/inf/design.php
+- 19:42:46.953 DEBUG: WM_DESTROY
+- 19:42:46.953 DEBUG: RemoveBrowserWindow(): hwnd = 394028
+- 19:42:46.953 INFO: Stopping Mongoose web server
+- 19:42:46.953 DEBUG: Mongoose webserver stopped immediately
+- 19:42:46.953 DEBUG: RemoveBrowserWindow(): hwnd = 263286
+- 19:42:46.953 DEBUG: GetBrowserWindow(): not found, hwnd = 263286
+- 19:42:46.953 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 19:42:46.016 INFO: Ended application
+- 19:42:46.016 INFO: --------------------------------------------------------
+- 19:43:18.000 INFO: --------------------------------------------------------
+- 19:43:18.000 INFO: Started application
+- 19:43:18.000 INFO: Logging to: C:\phpdesktop\phpdesktopchromephp\debug.log
+- 19:43:18.000 INFO: Log level = DEBUG4
+- 19:43:18.000 INFO: Starting Mongoose 3.9c web server
+- 19:43:18.000 INFO: WWW directory: C:\phpdesktop\phpdesktopchromephp\www
+- 19:43:18.000 INFO: Index files: index.html,index.php
+- 19:43:18.000 INFO: CGI interpreter: C:\phpdesktop\phpdesktopchromephp\php\php-cgi.exe
+- 19:43:18.000 INFO: CGI pattern: **.php$
+- 19:43:18.000 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 19:43:18.000 INFO: Web server url: http://127.0.0.1:49970/
+- 19:43:18.000 INFO: remote_debugging_port = 59660
+- 19:43:18.000 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --remote-debugging-port=59660 --no-sandbox
+- 19:43:18.031 DEBUG: App::OnContextInitialized()
+- 19:43:18.031 DEBUG: Window max width/height = 1520/812
+- 19:43:18.031 DEBUG: GetBrowserWindow(): not found, hwnd = 328860
+- 19:43:18.031 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:43:18.031 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:43:18.031 DEBUG: StoreBrowserWindow(): hwnd = 328860
+- 19:43:18.062 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 19:43:18.062 DEBUG: ClientHandler::OnAfterCreated()
+- 19:43:18.062 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:43:18.062 INFO: DPI, ppix = 96, ppiy = 96
+- 19:43:18.062 INFO: DPI, browser zoom level = 0
+- 19:43:18.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=gpu-process --channel="552.0.650906518\1444463601" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" /prefetch:822062411
+- 19:43:18.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-accelerated-2d-canvas --channel="552.1.1225512413\819611937" /prefetch:673131151
+- 19:43:18.140 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:43:18.031 DEBUG: OnBrowserCreated()
+- 19:43:19.203 DEBUG: OnContextCreated()
+- 19:43:19.328 INFO: GET 200 /
+- 19:43:19.328 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49970/
+- 19:43:19.343 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:49970/
+- 19:43:19.359 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49970/
+- 19:43:19.297 DEBUG: OnContextCreated()
+- 19:43:19.422 INFO: GET 200 /appsystem/inf/design.php
+- 19:43:19.422 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 19:43:19.437 INFO: GET 200 /appsystem/css/appsystem.css
+- 19:43:19.453 INFO: GET 200 /appsystem/js/jquery.js
+- 19:43:19.453 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+- 19:43:19.453 INFO: GET 200 /appsystem/js/appsystem.js
+- 19:43:19.578 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+[0801/194319:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:49970/appsystem/js/appsystem.js (296)
+- 19:43:19.750 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+- 19:43:19.765 INFO: GET 200 /appsystem/images/ux.jpg
+[0801/194320:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:49970/appsystem/js/appsystem.js (7)
+- 19:43:20.890 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49970/appsystem/inf/design.php
+- 19:43:22.484 DEBUG: WM_DESTROY
+- 19:43:22.484 DEBUG: RemoveBrowserWindow(): hwnd = 328860
+- 19:43:22.484 INFO: Stopping Mongoose web server
+- 19:43:22.484 DEBUG: Mongoose webserver stopped immediately
+- 19:43:22.484 DEBUG: RemoveBrowserWindow(): hwnd = 525534
+- 19:43:22.484 DEBUG: GetBrowserWindow(): not found, hwnd = 525534
+- 19:43:22.484 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 19:43:22.500 INFO: Ended application
+- 19:43:22.500 INFO: --------------------------------------------------------
+- 19:43:30.016 INFO: --------------------------------------------------------
+- 19:43:30.016 INFO: Started application
+- 19:43:30.016 INFO: Logging to: C:\phpdesktop\phpdesktopchromephp\debug.log
+- 19:43:30.016 INFO: Log level = DEBUG4
+- 19:43:30.016 INFO: Starting Mongoose 3.9c web server
+- 19:43:30.016 INFO: WWW directory: C:\phpdesktop\phpdesktopchromephp\www
+- 19:43:30.016 INFO: Index files: index.html,index.php
+- 19:43:30.016 INFO: CGI interpreter: C:\phpdesktop\phpdesktopchromephp\php\php-cgi.exe
+- 19:43:30.016 INFO: CGI pattern: **.php$
+- 19:43:30.016 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 19:43:30.016 INFO: Web server url: http://127.0.0.1:49981/
+- 19:43:30.016 INFO: remote_debugging_port = 52904
+- 19:43:30.016 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --remote-debugging-port=52904 --no-sandbox
+- 19:43:30.047 DEBUG: App::OnContextInitialized()
+- 19:43:30.047 DEBUG: Window max width/height = 1520/812
+- 19:43:30.047 DEBUG: GetBrowserWindow(): not found, hwnd = 722096
+- 19:43:30.047 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:43:30.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:43:30.047 DEBUG: StoreBrowserWindow(): hwnd = 722096
+- 19:43:30.094 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 19:43:30.094 DEBUG: ClientHandler::OnAfterCreated()
+- 19:43:30.094 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:43:30.110 INFO: DPI, ppix = 96, ppiy = 96
+- 19:43:30.110 INFO: DPI, browser zoom level = 0
+- 19:43:30.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=gpu-process --channel="828.0.639893056\1580949775" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" /prefetch:822062411
+- 19:43:30.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-accelerated-2d-canvas --channel="828.1.1033033857\505077948" /prefetch:673131151
+- 19:43:30.141 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:43:30.016 DEBUG: OnBrowserCreated()
+- 19:43:31.375 INFO: GET 200 /
+- 19:43:31.234 DEBUG: OnContextCreated()
+- 19:43:31.375 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/
+- 19:43:31.375 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/
+- 19:43:32.313 DEBUG: OnContextCreated()
+- 19:43:32.469 INFO: GET 200 /appsystem/inf/design.php
+- 19:43:32.469 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 19:43:32.469 INFO: GET 200 /appsystem/css/appsystem.css
+- 19:43:32.485 INFO: GET 200 /appsystem/js/jquery.js
+- 19:43:32.485 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+- 19:43:32.532 INFO: GET 200 /appsystem/js/appsystem.js
+- 19:43:32.625 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+[0801/194332:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:49981/appsystem/js/appsystem.js (296)
+- 19:43:32.782 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+- 19:43:32.782 INFO: GET 200 /appsystem/images/ux.jpg
+[0801/194332:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:49981/appsystem/js/appsystem.js (7)
+- 19:43:32.938 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/design.php
+- 19:45:55.766 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/design.php
+- 19:45:55.766 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/design.php#&ui-state=dialog
+- 19:45:55.766 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/design.php#&ui-state=dialog
+- 19:45:55.766 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/design.php#&ui-state=dialog
+- 19:45:57.625 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/design.php#&ui-state=dialog
+- 19:45:57.016 DEBUG: OnContextCreated()
+- 19:45:57.188 INFO: GET 200 /appsystem/css/bootstrap.css
+- 19:45:57.204 INFO: GET 200 /appsystem/jscss/ifrpi.css
+- 19:45:57.219 INFO: GET 200 /appsystem/css/icons/style.css
+- 19:45:57.235 INFO: GET 200 /appsystem/jscss/gridlistview.css
+- 19:45:57.250 INFO: GET 200 /appsystem/jscss/swiper.min.css
+- 19:45:57.266 INFO: GET 200 /appsystem/js/ifrpics.js
+- 19:45:57.375 INFO: GET 200 /appsystem/inf/webpage.php
+- 19:45:57.391 INFO: GET 200 /appsystem/jscss/calendar.css
+- 19:45:58.438 INFO: GET 200 /appsystem/js/fastbtn.js
+- 19:45:58.438 INFO: GET 200 /appsystem/js/gt.js
+- 19:45:58.438 INFO: GET 200 /appsystem/js/swiper.jquery.min.js
+- 19:45:58.438 INFO: GET 200 /appsystem/js/video.js
+- 19:45:58.454 INFO: GET 200 /appsystem/js/calendar.js
+- 19:45:58.500 INFO: GET 200 /appsystem/js/jquery.qrcode.min.js
+- 19:45:58.516 INFO: GET 200 /appsystem/js/qr.js
+- 19:45:58.516 INFO: GET 200 /appsystem/js/webaudio.js
+[0801/194558:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: http://127.0.0.1:49981/appsystem/js/webaudio.js (1)
+- 19:45:58.657 INFO: GET 200 /appsystem/js/form.js
+- 19:45:58.797 INFO: GET 200 /appsystem/js/playground.js
+- 19:45:58.813 INFO: GET 200 /appsystem/js/popupics.js
+- 19:45:58.829 INFO: GET 200 /appsystem/js/playlist.js
+- 19:45:58.844 INFO: GET 200 /appsystem/js/gridpic.js
+- 19:45:58.860 INFO: GET 200 /appsystem/js/tabs.js
+- 19:45:58.891 INFO: GET 200 /appsystem/js/dw.js
+- 19:45:58.907 INFO: GET 200 /appsystem/js/jquery.nest.js
+- 19:45:58.922 INFO: GET 200 /appsystem/js/jquery.nicescroll.min.js
+[0801/194558:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:49981/appsystem/js/appsystem.js (296)
+[0801/194558:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:49981/appsystem/js/appsystem.js (7)
+- 19:45:58.125 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/webpage.php
+- 19:46:01.688 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/webpage.php
+- 19:46:01.688 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/webpage.php#&ui-state=dialog
+- 19:46:01.688 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/webpage.php#&ui-state=dialog
+- 19:46:01.688 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/webpage.php#&ui-state=dialog
+- 19:46:04.704 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/webpage.php#&ui-state=dialog
+- 19:46:04.797 INFO: GET 200 /appsystem/inf/webpage.php
+- 19:46:04.656 DEBUG: OnContextCreated()
+- 19:46:04.875 INFO: GET 200 /appsystem/jscss/calendar.css
+- 19:46:04.875 INFO: GET 200 /appsystem/js/webaudio.js
+[0801/194604:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: http://127.0.0.1:49981/appsystem/js/webaudio.js (1)
+[0801/194604:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:49981/appsystem/js/appsystem.js (296)
+[0801/194604:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:49981/appsystem/js/appsystem.js (7)
+- 19:46:04.047 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/webpage.php
+- 19:46:11.875 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/webpage.php
+- 19:46:11.875 DEBUG: OnContextCreated()
+- 19:46:11.094 INFO: GET 200 /appsystem/jscss/calendar.css
+- 19:46:11.094 INFO: GET 200 /appsystem/js/webaudio.js
+[0801/194611:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: http://127.0.0.1:49981/appsystem/js/webaudio.js (1)
+- 19:46:11.375 INFO: POST 200 /appsystem/inf/webpage.php?pj=&ap=
+[0801/194611:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:49981/appsystem/js/appsystem.js (296)
+[0801/194612:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:49981/appsystem/js/appsystem.js (7)
+- 19:46:12.485 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/webpage.php?pj=&ap=
+- 19:46:12.516 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/webpage.php?pj=&ap=
+- 19:46:12.484 DEBUG: OnContextCreated()
+- 19:46:12.657 INFO: GET 200 /appsystem/inf/webpage.php?ap=1&pj=1
+- 19:46:12.704 INFO: GET 200 /appsystem/jscss/calendar.css
+- 19:46:12.704 INFO: GET 200 /appsystem/js/webaudio.js
+[0801/194612:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: http://127.0.0.1:49981/appsystem/js/webaudio.js (1)
+[0801/194612:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:49981/appsystem/js/appsystem.js (296)
+- 19:46:12.875 INFO: GET 200 /appsystem/panel/1/images/
+[0801/194612:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:49981/appsystem/js/appsystem.js (7)
+- 19:46:12.047 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/webpage.php?ap=1&pj=1
+- 19:46:20.532 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/webpage.php?ap=1&pj=1
+- 19:46:20.532 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/webpage.php?ap=1&pj=1#&ui-state=dialog
+- 19:46:20.532 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/webpage.php?ap=1&pj=1#&ui-state=dialog
+- 19:46:20.532 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/webpage.php?ap=1&pj=1#&ui-state=dialog
+- 19:46:21.938 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/webpage.php?ap=1&pj=1#&ui-state=dialog
+- 19:46:21.063 DEBUG: OnContextCreated()
+- 19:46:21.235 INFO: GET 200 /appsystem/inf/editor.php?ap=1&pj=1&tl=1
+- 19:46:21.235 INFO: GET 200 /appsystem/jscss/summernote.css
+- 19:46:21.250 INFO: GET 200 /appsystem/css/icon/style.css
+- 19:46:21.282 INFO: GET 200 /appsystem/js/js/bootstrap.min.js
+- 19:46:21.297 INFO: GET 200 /appsystem/images/pigs.png
+- 19:46:21.313 INFO: GET 200 /appsystem/js/lang/summernote-zh-TW.js
+- 19:46:21.360 INFO: GET 200 /appsystem/images/btn.png
+- 19:46:21.407 INFO: GET 200 /appsystem/js/css/bootstrap.min.css
+- 19:46:21.407 INFO: GET 200 /appsystem/js/summernote.js
+- 19:46:22.454 INFO: GET 200 /appsystem/images/btn1.png
+[0801/194622:INFO:CONSOLE(296)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:49981/appsystem/js/appsystem.js (296)
+[0801/194622:INFO:CONSOLE(7)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:49981/appsystem/js/appsystem.js (7)
+- 19:46:22.235 INFO: GET 200 /appsystem/js/fonts/glyphicons-halflings-regular.woff
+- 19:46:22.344 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/editor.php?ap=1&pj=1&tl=1
+- 19:47:37.157 DEBUG: ClientHandler::OnBeforePopup()
+- 19:47:37.157 INFO: Setting default size for a popup window 1024/768
+- 19:47:37.157 DEBUG: Window max width/height = 1520/812
+- 19:47:37.016 DEBUG: OnBrowserCreated()
+- 19:47:37.188 DEBUG: ClientHandler::OnAfterCreated()
+- 19:47:37.188 DEBUG: GetBrowserWindow(): not found, hwnd = 1049784
+- 19:47:37.188 DEBUG: BrowserWindow::BrowserWindow() created for Popup
+- 19:47:37.188 DEBUG: StoreBrowserWindow(): hwnd = 1049784
+- 19:47:37.204 DEBUG: Centering popup window relative to its parent
+- 19:47:37.204 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:47:38.297 DEBUG: OnContextCreated()
+- 19:47:38.454 INFO: GET 200 /appsystem/inf/icon.php
+- 19:47:38.469 INFO: GET 200 /appsystem/inf/icons/style.css
+- 19:47:38.563 INFO: GET 200 /appsystem/images/icon1.png
+- 19:47:38.579 INFO: GET 200 /appsystem/images/icon2.png
+- 19:47:38.750 INFO: GET 200 /appsystem/inf/icons/fonts/icomoon.woff?c3w7e1
+- 19:47:58.485 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/icon.php
+- 19:47:58.516 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/icon.php
+- 19:47:58.516 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/icon.php#&ui-state=dialog
+- 19:47:58.516 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/icon.php#&ui-state=dialog
+- 19:47:58.516 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/icon.php#&ui-state=dialog
+- 19:48:03.391 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/icon.php#&ui-state=dialog
+- 19:48:03.407 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/icon.php
+- 19:48:04.250 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/icon.php
+- 19:48:04.250 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/icon.php#&ui-state=dialog
+- 19:48:04.250 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/icon.php#&ui-state=dialog
+- 19:48:04.250 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/icon.php#&ui-state=dialog
+- 19:48:07.016 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/icon.php#&ui-state=dialog
+- 19:48:07.016 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/icon.php
+- 19:48:08.094 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/icon.php
+- 19:48:08.094 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/icon.php#&ui-state=dialog
+- 19:48:08.094 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/icon.php#&ui-state=dialog
+- 19:48:08.094 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/icon.php#&ui-state=dialog
+- 19:48:12.875 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:49981/appsystem/inf/icon.php#&ui-state=dialog
+- 19:48:12.875 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:49981/appsystem/inf/icon.php
+- 19:48:23.422 DEBUG: RemoveBrowserWindow(): hwnd = 1049784
+- 19:48:24.422 DEBUG: OnBrowserDestroyed()
+- 19:48:32.266 DEBUG: WM_DESTROY
+- 19:48:32.266 DEBUG: RemoveBrowserWindow(): hwnd = 722096
+- 19:48:32.266 INFO: Stopping Mongoose web server
+- 19:48:32.266 DEBUG: Mongoose webserver stopped immediately
+- 19:48:32.266 DEBUG: RemoveBrowserWindow(): hwnd = 394396
+- 19:48:32.266 DEBUG: GetBrowserWindow(): not found, hwnd = 394396
+- 19:48:32.266 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 19:48:32.313 INFO: Ended application
+- 19:48:32.313 INFO: --------------------------------------------------------
+- 16:04:40.000 INFO: --------------------------------------------------------
+- 16:04:40.000 INFO: Started application
+- 16:04:40.000 INFO: Logging to: C:\phpdesktop\phpdesktopchromephp\debug.log
+- 16:04:40.000 INFO: Log level = DEBUG4
+- 16:04:40.000 INFO: Starting Mongoose 3.9c web server
+- 16:04:40.000 INFO: WWW directory: C:\phpdesktop\phpdesktopchromephp\www
+- 16:04:40.000 INFO: Index files: index.html,index.php
+- 16:04:40.000 INFO: CGI interpreter: C:\phpdesktop\phpdesktopchromephp\php\php-cgi.exe
+- 16:04:40.000 INFO: CGI pattern: **.php$
+- 16:04:40.000 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 16:04:40.000 INFO: Web server url: http://127.0.0.1:57991/
+- 16:04:40.000 INFO: remote_debugging_port = 49420
+- 16:04:40.000 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --remote-debugging-port=49420 --no-sandbox
+- 16:04:40.031 DEBUG: App::OnContextInitialized()
+- 16:04:40.047 DEBUG: Window max width/height = 1520/812
+- 16:04:40.047 DEBUG: GetBrowserWindow(): not found, hwnd = 4326250
+- 16:04:40.047 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:04:40.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:04:40.047 DEBUG: StoreBrowserWindow(): hwnd = 4326250
+- 16:04:40.047 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 16:04:40.062 DEBUG: ClientHandler::OnAfterCreated()
+- 16:04:40.062 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:04:40.062 INFO: DPI, ppix = 96, ppiy = 96
+- 16:04:40.062 INFO: DPI, browser zoom level = 0
+- 16:04:40.094 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:04:40.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=gpu-process --channel="1800.0.1738191644\617265450" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" /prefetch:822062411
+- 16:04:40.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-accelerated-2d-canvas --channel="1800.1.1201958087\1210177426" /prefetch:673131151
+- 16:04:40.031 DEBUG: OnBrowserCreated()
+- 16:04:41.344 INFO: GET 200 /
+- 16:04:41.219 DEBUG: OnContextCreated()
+- 16:04:41.359 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57991/
+- 16:04:41.359 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57991/
+- 16:04:41.312 DEBUG: OnContextCreated()
+- 16:04:41.453 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 16:04:41.453 INFO: GET 200 /appsystem/css/appsystem.css
+- 16:04:41.453 INFO: GET 200 /appsystem/inf/design.php
+- 16:04:41.469 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+- 16:04:41.469 INFO: GET 200 /appsystem/js/appsystem.js
+- 16:04:41.484 INFO: GET 200 /appsystem/js/jquery.js
+- 16:04:42.640 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+- 16:04:42.719 INFO: GET 200 /appsystem/images/ux.jpg
+[0802/160442:INFO:CONSOLE(297)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:57991/appsystem/js/appsystem.js (297)
+- 16:04:42.734 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+[0802/160442:INFO:CONSOLE(8)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:57991/appsystem/js/appsystem.js (8)
+- 16:04:42.922 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57991/appsystem/inf/design.php
+- 16:04:49.109 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57991/appsystem/inf/design.php
+- 16:04:49.062 DEBUG: OnContextCreated()
+- 16:04:49.187 INFO: GET 200 /appsystem/inf/project.php
+- 16:04:49.297 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57991/appsystem/inf/project.php
+- 16:04:50.406 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57991/appsystem/inf/project.php
+- 16:04:51.375 DEBUG: OnContextCreated()
+- 16:04:51.515 INFO: GET 200 /appsystem/inf/menudesign.php?pj=1
+- 16:04:51.656 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57991/appsystem/inf/menudesign.php?pj=1
+- 16:04:52.187 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57991/appsystem/inf/menudesign.php?pj=1
+- 16:04:52.140 DEBUG: OnContextCreated()
+- 16:04:52.281 INFO: GET 200 /appsystem/inf/menudesign.php?pj=1&alt=title
+- 16:04:52.422 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57991/appsystem/inf/menudesign.php?pj=1&alt=title
+[0802/160454:INFO:CONSOLE(122)] "Uncaught ReferenceError: checkform is not defined", source: http://127.0.0.1:57991/appsystem/inf/menudesign.php?pj=1&alt=title (122)
+- 16:04:54.140 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57991/appsystem/inf/menudesign.php?pj=1&alt=title
+- 16:04:54.094 DEBUG: OnContextCreated()
+- 16:04:54.344 INFO: POST 200 /appsystem/inf/menudesign.php?pj=1&ap=&alt=title
+- 16:04:54.453 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57991/appsystem/inf/menudesign.php?pj=1&ap=&alt=title
+- 16:04:54.469 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57991/appsystem/inf/menudesign.php?pj=1&ap=&alt=title
+- 16:04:55.437 DEBUG: OnContextCreated()
+- 16:04:55.578 INFO: GET 200 /appsystem/inf/menudesign.php?pj=1&alt=title
+- 16:04:55.703 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57991/appsystem/inf/menudesign.php?pj=1&alt=title
+- 16:05:29.719 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57991/appsystem/inf/menudesign.php?pj=1&alt=title
+- 16:05:29.719 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57991/appsystem/inf/menudesign.php?pj=1&alt=title#&ui-state=dialog
+- 16:05:29.719 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57991/appsystem/inf/menudesign.php?pj=1&alt=title#&ui-state=dialog
+- 16:05:29.719 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57991/appsystem/inf/menudesign.php?pj=1&alt=title#&ui-state=dialog
+- 16:05:30.687 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:57991/appsystem/inf/menudesign.php?pj=1&alt=title#&ui-state=dialog
+- 16:05:30.640 DEBUG: OnContextCreated()
+- 16:05:30.765 INFO: GET 200 /appsystem/inf/explanation.php
+- 16:05:30.969 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:57991/appsystem/inf/explanation.php
+- 16:09:21.359 DEBUG: WM_DESTROY
+- 16:09:21.359 DEBUG: RemoveBrowserWindow(): hwnd = 4326250
+- 16:09:21.359 INFO: Stopping Mongoose web server
+- 16:09:21.359 DEBUG: Mongoose webserver stopped immediately
+- 16:09:21.359 DEBUG: RemoveBrowserWindow(): hwnd = 3605754
+- 16:09:21.359 DEBUG: GetBrowserWindow(): not found, hwnd = 3605754
+- 16:09:21.359 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:09:21.265 DEBUG: OnBrowserDestroyed()
+- 16:09:21.406 INFO: Ended application
+- 16:09:21.406 INFO: --------------------------------------------------------
+- 19:55:34.062 INFO: --------------------------------------------------------
+- 19:55:34.062 INFO: Started application
+- 19:55:34.062 INFO: Logging to: C:\phpdesktop\phpdesktopchromephp\debug.log
+- 19:55:34.062 INFO: Log level = DEBUG4
+- 19:55:34.062 INFO: Starting Mongoose 3.9c web server
+- 19:55:34.062 INFO: WWW directory: C:\phpdesktop\phpdesktopchromephp\www
+- 19:55:34.062 INFO: Index files: index.html,index.php
+- 19:55:34.062 INFO: CGI interpreter: C:\phpdesktop\phpdesktopchromephp\php\php-cgi.exe
+- 19:55:34.062 INFO: CGI pattern: **.php$
+- 19:55:34.062 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 19:55:34.078 INFO: Web server url: http://127.0.0.1:55318/
+- 19:55:34.078 INFO: remote_debugging_port = 53215
+- 19:55:34.172 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --remote-debugging-port=53215 --no-sandbox
+- 19:55:35.437 DEBUG: App::OnContextInitialized()
+- 19:55:35.437 DEBUG: Window max width/height = 1520/812
+- 19:55:35.437 DEBUG: GetBrowserWindow(): not found, hwnd = 4392250
+- 19:55:35.437 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 19:55:35.437 DEBUG: BrowserWindow::CreateBrowserControl()
+- 19:55:35.437 DEBUG: StoreBrowserWindow(): hwnd = 4392250
+- 19:55:35.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=gpu-process --channel="4020.0.420543786\948498803" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" /prefetch:822062411
+- 19:55:35.484 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 19:55:36.609 DEBUG: ClientHandler::OnAfterCreated()
+- 19:55:36.609 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 19:55:36.609 INFO: DPI, ppix = 96, ppiy = 96
+- 19:55:36.609 INFO: DPI, browser zoom level = 0
+- 19:55:36.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-accelerated-2d-canvas --channel="4020.1.2026935610\1984346544" /prefetch:673131151
+- 19:55:36.906 DEBUG: OnLoadingStateChange: loading=1, url=
+- 19:55:37.328 DEBUG: OnBrowserCreated()
+- 19:55:41.609 INFO: GET 200 /
+- 19:55:41.016 DEBUG: OnContextCreated()
+- 19:55:41.844 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55318/
+- 19:55:41.844 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55318/
+- 19:55:41.516 DEBUG: OnContextCreated()
+- 19:55:41.312 INFO: GET 200 /appsystem/inf/design.php
+- 19:55:41.359 INFO: GET 200 /appsystem/css/appsystem.css
+- 19:55:41.437 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 19:55:41.515 INFO: GET 200 /appsystem/js/jquery.js
+- 19:55:41.531 INFO: GET 200 /appsystem/js/appsystem.js
+- 19:55:42.594 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+- 19:55:42.687 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+[0818/195542:INFO:CONSOLE(297)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:55318/appsystem/js/appsystem.js (297)
+- 19:55:42.047 INFO: GET 200 /appsystem/images/ux.jpg
+- 19:55:42.062 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+[0818/195542:INFO:CONSOLE(8)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:55318/appsystem/js/appsystem.js (8)
+- 19:55:42.515 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55318/appsystem/inf/design.php
+- 19:55:47.875 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55318/appsystem/inf/design.php
+- 19:55:47.875 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55318/appsystem/inf/design.php#&ui-state=dialog
+- 19:55:47.875 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55318/appsystem/inf/design.php#&ui-state=dialog
+- 19:55:47.875 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55318/appsystem/inf/design.php#&ui-state=dialog
+- 19:55:48.031 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55318/appsystem/inf/design.php#&ui-state=dialog
+- 19:55:49.828 DEBUG: OnContextCreated()
+- 19:55:49.640 INFO: GET 200 /appsystem/inf/menudesign.php
+- 19:55:49.812 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55318/appsystem/inf/menudesign.php
+[0818/195550:INFO:CONSOLE(122)] "Uncaught ReferenceError: checkform is not defined", source: http://127.0.0.1:55318/appsystem/inf/menudesign.php (122)
+- 19:55:50.422 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55318/appsystem/inf/menudesign.php
+- 19:55:50.766 DEBUG: OnContextCreated()
+- 19:55:51.672 INFO: POST 200 /appsystem/inf/menudesign.php?pj=&ap=&alt=
+- 19:55:51.781 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55318/appsystem/inf/menudesign.php?pj=&ap=&alt=
+- 19:55:51.812 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:55318/appsystem/inf/menudesign.php?pj=&ap=&alt=
+- 19:55:51.141 DEBUG: OnContextCreated()
+- 19:55:51.937 INFO: GET 200 /appsystem/inf/menudesign.php?pj=1&alt=
+- 19:55:51.062 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:55318/appsystem/inf/menudesign.php?pj=1&alt=
+- 19:56:00.328 DEBUG: WM_DESTROY
+- 19:56:00.328 DEBUG: RemoveBrowserWindow(): hwnd = 4392250
+- 19:56:00.328 INFO: Stopping Mongoose web server
+- 19:56:00.328 DEBUG: Mongoose webserver stopped immediately
+- 19:56:00.328 DEBUG: RemoveBrowserWindow(): hwnd = 852472
+- 19:56:00.328 DEBUG: GetBrowserWindow(): not found, hwnd = 852472
+- 19:56:00.328 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 19:56:00.406 INFO: Ended application
+- 19:56:00.406 INFO: --------------------------------------------------------
+- 19:56:00.672 DEBUG: OnBrowserDestroyed()
+- 20:13:39.032 INFO: --------------------------------------------------------
+- 20:13:39.032 INFO: Started application
+- 20:13:39.032 INFO: Logging to: C:\phpdesktop\phpdesktopchromephp\debug.log
+- 20:13:39.032 INFO: Log level = DEBUG4
+- 20:13:39.032 INFO: Starting Mongoose 3.9c web server
+- 20:13:39.032 INFO: WWW directory: C:\phpdesktop\phpdesktopchromephp\www
+- 20:13:39.032 INFO: Index files: index.html,index.php
+- 20:13:39.032 INFO: CGI interpreter: C:\phpdesktop\phpdesktopchromephp\php\php-cgi.exe
+- 20:13:39.032 INFO: CGI pattern: **.php$
+- 20:13:39.032 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 20:13:39.032 INFO: Web server url: http://127.0.0.1:50449/
+- 20:13:39.032 INFO: remote_debugging_port = 57012
+- 20:13:39.032 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --remote-debugging-port=57012 --no-sandbox
+- 20:13:39.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=gpu-process --channel="5920.0.346095559\2020083191" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" /prefetch:822062411
+- 20:13:39.860 DEBUG: App::OnContextInitialized()
+- 20:13:39.860 DEBUG: Window max width/height = 1520/812
+- 20:13:39.860 DEBUG: GetBrowserWindow(): not found, hwnd = 1115904
+- 20:13:39.860 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:13:39.860 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:13:39.891 DEBUG: StoreBrowserWindow(): hwnd = 1115904
+- 20:13:39.907 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 20:13:40.329 DEBUG: ClientHandler::OnAfterCreated()
+- 20:13:40.329 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:13:40.360 INFO: DPI, ppix = 96, ppiy = 96
+- 20:13:40.360 INFO: DPI, browser zoom level = 0
+- 20:13:40.657 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:13:40.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-accelerated-2d-canvas --channel="5920.1.2027956290\1299727594" /prefetch:673131151
+- 20:13:42.422 DEBUG: OnBrowserCreated()
+[0818/201343:ERROR:backend_impl.cc(987)] Critical error found -8
+[0818/201343:WARNING:storage_block-inl.h(128)] Failed data load.
+- 20:13:46.719 INFO: GET 200 /
+- 20:13:46.265 DEBUG: OnContextCreated()
+- 20:13:47.954 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/
+- 20:13:47.954 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/
+- 20:13:47.547 DEBUG: OnContextCreated()
+- 20:13:47.219 INFO: GET 200 /appsystem/inf/design.php
+- 20:13:47.329 INFO: GET 200 /appsystem/js/appsystem.js
+- 20:13:47.360 INFO: GET 200 /appsystem/css/appsystem.css
+- 20:13:47.391 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 20:13:47.438 INFO: GET 200 /appsystem/js/jquery.js
+- 20:13:47.485 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+- 20:13:47.579 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+[0818/201347:INFO:CONSOLE(297)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (297)
+- 20:13:48.954 INFO: GET 200 /appsystem/images/ux.jpg
+- 20:13:48.000 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+[0818/201348:INFO:CONSOLE(8)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (8)
+- 20:13:48.375 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/design.php
+- 20:13:50.704 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/design.php
+- 20:13:50.704 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/design.php#&ui-state=dialog
+- 20:13:50.704 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/design.php#&ui-state=dialog
+- 20:13:50.704 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/design.php#&ui-state=dialog
+- 20:13:51.719 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/design.php#&ui-state=dialog
+- 20:13:52.593 DEBUG: OnContextCreated()
+- 20:13:52.266 INFO: GET 200 /appsystem/inf/menudesign.php
+- 20:13:52.454 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php
+[0818/201354:INFO:CONSOLE(122)] "Uncaught ReferenceError: checkform is not defined", source: http://127.0.0.1:50449/appsystem/inf/menudesign.php (122)
+- 20:13:54.907 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php
+- 20:13:55.375 DEBUG: OnContextCreated()
+- 20:13:55.110 INFO: POST 200 /appsystem/inf/menudesign.php?pj=&ap=&alt=
+- 20:13:55.204 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=&ap=&alt=
+- 20:13:55.235 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=&ap=&alt=
+- 20:13:55.750 DEBUG: OnContextCreated()
+- 20:13:55.407 INFO: GET 200 /appsystem/inf/menudesign.php?pj=1&alt=
+- 20:13:55.547 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=1&alt=
+- 20:13:57.829 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=1&alt=
+- 20:13:57.250 DEBUG: OnContextCreated()
+- 20:13:57.907 INFO: GET 200 /appsystem/inf/menudesign.php?pj=1&alt=title
+- 20:13:58.032 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=1&alt=title
+[0818/201359:INFO:CONSOLE(122)] "Uncaught ReferenceError: checkform is not defined", source: http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=1&alt=title (122)
+- 20:13:59.547 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=1&alt=title
+- 20:13:59.953 DEBUG: OnContextCreated()
+- 20:13:59.704 INFO: POST 200 /appsystem/inf/menudesign.php?pj=1&ap=&alt=title
+- 20:13:59.813 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=1&ap=&alt=title
+- 20:13:59.860 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=1&ap=&alt=title
+- 20:13:59.265 DEBUG: OnContextCreated()
+- 20:14:00.938 INFO: GET 200 /appsystem/inf/menudesign.php?pj=1&alt=title
+- 20:14:00.063 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=1&alt=title
+- 20:14:02.157 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=1&alt=title
+- 20:14:02.157 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=1&alt=title#&ui-state=dialog
+- 20:14:02.157 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=1&alt=title#&ui-state=dialog
+- 20:14:02.157 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=1&alt=title#&ui-state=dialog
+- 20:14:03.047 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/menudesign.php?pj=1&alt=title#&ui-state=dialog
+- 20:14:03.937 DEBUG: OnContextCreated()
+- 20:14:03.610 INFO: GET 200 /appsystem/inf/webpage.php?pj=1
+- 20:14:03.657 INFO: GET 200 /appsystem/css/bootstrap.css
+- 20:14:03.719 INFO: GET 200 /appsystem/css/icons/style.css
+- 20:14:03.719 INFO: GET 200 /appsystem/jscss/ifrpi.css
+- 20:14:03.735 INFO: GET 200 /appsystem/jscss/swiper.min.css
+- 20:14:03.735 INFO: GET 200 /appsystem/jscss/gridlistview.css
+- 20:14:03.750 INFO: GET 200 /appsystem/js/ifrpics.js
+- 20:14:03.829 INFO: GET 200 /appsystem/jscss/calendar.css
+- 20:14:03.875 INFO: GET 200 /appsystem/js/video.js
+- 20:14:03.907 INFO: GET 200 /appsystem/js/swiper.jquery.min.js
+- 20:14:04.954 INFO: GET 200 /appsystem/js/fastbtn.js
+- 20:14:04.954 INFO: GET 200 /appsystem/js/gt.js
+- 20:14:04.016 INFO: GET 200 /appsystem/js/webaudio.js
+- 20:14:04.016 INFO: GET 200 /appsystem/js/calendar.js
+- 20:14:04.032 INFO: GET 200 /appsystem/js/jquery.qrcode.min.js
+- 20:14:04.032 INFO: GET 200 /appsystem/js/qr.js
+[0818/201404:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: http://127.0.0.1:50449/appsystem/js/webaudio.js (1)
+- 20:14:04.172 INFO: GET 200 /appsystem/js/playground.js
+- 20:14:04.188 INFO: GET 200 /appsystem/js/popupics.js
+- 20:14:04.188 INFO: GET 200 /appsystem/js/playlist.js
+- 20:14:04.219 INFO: GET 200 /appsystem/js/gridpic.js
+- 20:14:04.235 INFO: GET 200 /appsystem/js/form.js
+- 20:14:04.235 INFO: GET 200 /appsystem/js/dw.js
+- 20:14:04.250 INFO: GET 200 /appsystem/js/tabs.js
+- 20:14:04.266 INFO: GET 200 /appsystem/js/jquery.nest.js
+- 20:14:04.313 INFO: GET 200 /appsystem/js/jquery.nicescroll.min.js
+[0818/201404:INFO:CONSOLE(297)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (297)
+- 20:14:04.469 INFO: GET 200 /appsystem/panel/1/images/
+[0818/201404:INFO:CONSOLE(8)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (8)
+- 20:14:04.610 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?pj=1
+- 20:14:06.954 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?pj=1
+- 20:14:06.954 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?pj=1#&ui-state=dialog
+- 20:14:06.954 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?pj=1#&ui-state=dialog
+- 20:14:06.954 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?pj=1#&ui-state=dialog
+- 20:14:08.813 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?pj=1#&ui-state=dialog
+- 20:14:09.453 DEBUG: OnContextCreated()
+- 20:14:09.125 INFO: GET 200 /appsystem/inf/editor.php?ap=&pj=1&tl=1
+- 20:14:09.125 INFO: GET 200 /appsystem/images/pigs.png
+- 20:14:09.172 INFO: GET 200 /appsystem/js/jquery.cleditor.min.js
+- 20:14:09.188 INFO: GET 200 /appsystem/jscss/jquery.cleditor.css
+- 20:14:09.188 INFO: GET 200 /appsystem/css/icon/style.css
+- 20:14:09.219 INFO: GET 200 /appsystem/images/btn.png
+- 20:14:09.235 INFO: GET 200 /appsystem/images/btn1.png
+[0818/201409:INFO:CONSOLE(297)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (297)
+- 20:14:09.797 DEBUG: OnContextCreated()
+- 20:14:09.485 INFO: GET 200 /appsystem/jscss/images/toolbar.gif
+- 20:14:09.485 INFO: GET 200 /appsystem/jscss/images/table.gif
+- 20:14:09.500 INFO: GET 200 /appsystem/jscss/images/buttons.gif
+[0818/201409:INFO:CONSOLE(8)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (8)
+- 20:14:09.516 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/editor.php?ap=&pj=1&tl=1
+- 20:14:16.235 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/editor.php?ap=&pj=1&tl=1
+- 20:14:16.235 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/editor.php?ap=&pj=1&tl=1#&ui-state=dialog
+- 20:14:16.235 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/editor.php?ap=&pj=1&tl=1#&ui-state=dialog
+- 20:14:16.235 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/editor.php?ap=&pj=1&tl=1#&ui-state=dialog
+- 20:14:20.422 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/editor.php?ap=&pj=1&tl=1#&ui-state=dialog
+- 20:14:20.953 DEBUG: OnContextCreated()
+- 20:14:20.610 INFO: GET 200 /appsystem/inf/project.php
+- 20:14:20.750 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/project.php
+- 20:14:24.860 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/project.php
+- 20:14:24.860 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/project.php#&ui-state=dialog
+- 20:14:24.860 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/project.php#&ui-state=dialog
+- 20:14:24.875 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/project.php#&ui-state=dialog
+- 20:14:25.610 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/project.php#&ui-state=dialog
+- 20:14:25.031 DEBUG: OnContextCreated()
+- 20:14:25.688 INFO: GET 200 /appsystem/inf/project.php
+- 20:14:25.782 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/project.php
+- 20:14:27.079 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/project.php
+- 20:14:27.079 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/project.php#&ui-state=dialog
+- 20:14:27.079 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/project.php#&ui-state=dialog
+- 20:14:27.079 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/project.php#&ui-state=dialog
+- 20:14:27.766 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/project.php#&ui-state=dialog
+- 20:14:27.172 DEBUG: OnContextCreated()
+- 20:14:27.844 INFO: GET 200 /appsystem/inf/design.php
+[0818/201427:INFO:CONSOLE(297)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (297)
+[0818/201428:INFO:CONSOLE(8)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (8)
+- 20:14:28.969 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/design.php
+- 20:14:29.422 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/design.php
+- 20:14:29.422 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/design.php#&ui-state=dialog
+- 20:14:29.422 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/design.php#&ui-state=dialog
+- 20:14:29.422 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/design.php#&ui-state=dialog
+- 20:14:31.110 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/design.php#&ui-state=dialog
+- 20:14:31.110 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/design.php
+- 20:14:31.250 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/design.php
+- 20:14:31.250 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/design.php#&ui-state=dialog
+- 20:14:31.250 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/design.php#&ui-state=dialog
+- 20:14:31.250 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/design.php#&ui-state=dialog
+- 20:14:33.094 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/design.php#&ui-state=dialog
+- 20:14:33.515 DEBUG: OnContextCreated()
+- 20:14:33.188 INFO: GET 200 /appsystem/inf/webpage.php?pj=1
+- 20:14:33.250 INFO: GET 200 /appsystem/jscss/calendar.css
+- 20:14:33.250 INFO: GET 200 /appsystem/js/webaudio.js
+[0818/201433:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: http://127.0.0.1:50449/appsystem/js/webaudio.js (1)
+[0818/201433:INFO:CONSOLE(297)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (297)
+- 20:14:33.454 INFO: GET 200 /appsystem/panel/1/images/
+[0818/201433:INFO:CONSOLE(8)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (8)
+- 20:14:33.532 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?pj=1
+- 20:14:36.282 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?pj=1
+- 20:14:37.937 DEBUG: OnContextCreated()
+- 20:14:37.672 INFO: GET 200 /appsystem/js/webaudio.js
+- 20:14:37.672 INFO: GET 200 /appsystem/jscss/calendar.css
+[0818/201437:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: http://127.0.0.1:50449/appsystem/js/webaudio.js (1)
+- 20:14:37.813 INFO: POST 200 /appsystem/inf/webpage.php?pj=1&ap=
+[0818/201437:INFO:CONSOLE(297)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (297)
+- 20:14:37.922 INFO: GET 200 /appsystem/panel/1/images/
+[0818/201438:INFO:CONSOLE(8)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (8)
+- 20:14:38.016 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?pj=1&ap=
+- 20:14:38.047 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?pj=1&ap=
+- 20:14:38.453 DEBUG: OnContextCreated()
+- 20:14:38.125 INFO: GET 200 /appsystem/inf/webpage.php?ap=1&pj=1
+- 20:14:38.204 INFO: GET 200 /appsystem/jscss/calendar.css
+- 20:14:38.204 INFO: GET 200 /appsystem/js/webaudio.js
+[0818/201438:INFO:CONSOLE(1)] "Uncaught SyntaxError: Unexpected token <", source: http://127.0.0.1:50449/appsystem/js/webaudio.js (1)
+[0818/201438:INFO:CONSOLE(297)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (297)
+- 20:14:38.375 INFO: GET 200 /appsystem/panel/1/images/
+[0818/201438:INFO:CONSOLE(8)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (8)
+- 20:14:38.485 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?ap=1&pj=1
+- 20:14:41.657 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?ap=1&pj=1
+- 20:14:41.657 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?ap=1&pj=1#&ui-state=dialog
+- 20:14:41.657 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?ap=1&pj=1#&ui-state=dialog
+- 20:14:41.657 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?ap=1&pj=1#&ui-state=dialog
+- 20:14:42.891 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/webpage.php?ap=1&pj=1#&ui-state=dialog
+- 20:14:43.297 DEBUG: OnContextCreated()
+- 20:14:43.969 INFO: GET 200 /appsystem/inf/editor.php?ap=1&pj=1&tl=1
+[0818/201443:INFO:CONSOLE(297)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (297)
+[0818/201443:INFO:CONSOLE(8)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (8)
+- 20:14:43.531 DEBUG: OnContextCreated()
+- 20:14:43.204 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/editor.php?ap=1&pj=1&tl=1
+- 20:14:47.282 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/editor.php?ap=1&pj=1&tl=1
+- 20:14:47.687 DEBUG: OnContextCreated()
+[0818/201447:INFO:CONSOLE(297)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (297)
+- 20:14:47.407 INFO: POST 200 /appsystem/inf/editor.php?pj=1&ap=1&pn=1&tl=1
+[0818/201447:INFO:CONSOLE(8)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (8)
+- 20:14:47.937 DEBUG: OnContextCreated()
+- 20:14:47.610 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/editor.php?pj=1&ap=1&pn=1&tl=1
+- 20:14:47.641 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50449/appsystem/inf/editor.php?pj=1&ap=1&pn=1&tl=1
+- 20:14:47.062 DEBUG: OnContextCreated()
+- 20:14:47.719 INFO: GET 200 /appsystem/inf/editor.php?ap=1&pj=1&pn=1
+[0818/201447:INFO:CONSOLE(297)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (297)
+[0818/201448:INFO:CONSOLE(8)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:50449/appsystem/js/appsystem.js (8)
+- 20:14:48.297 DEBUG: OnContextCreated()
+- 20:14:48.969 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50449/appsystem/inf/editor.php?ap=1&pj=1&pn=1
+- 20:15:05.469 DEBUG: WM_DESTROY
+- 20:15:05.469 DEBUG: RemoveBrowserWindow(): hwnd = 1115904
+- 20:15:05.469 INFO: Stopping Mongoose web server
+- 20:15:05.469 DEBUG: Mongoose webserver stopped immediately
+- 20:15:05.469 DEBUG: RemoveBrowserWindow(): hwnd = 1705724
+- 20:15:05.469 DEBUG: GetBrowserWindow(): not found, hwnd = 1705724
+- 20:15:05.469 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:15:05.532 INFO: Ended application
+- 20:15:05.532 INFO: --------------------------------------------------------
+- 20:15:05.937 DEBUG: OnBrowserDestroyed()
+- 20:29:03.000 INFO: --------------------------------------------------------
+- 20:29:03.000 INFO: Started application
+- 20:29:03.000 INFO: Logging to: C:\phpdesktop\phpdesktopchromephp\debug.log
+- 20:29:03.000 INFO: Log level = DEBUG4
+- 20:29:03.000 INFO: Starting Mongoose 3.9c web server
+- 20:29:03.000 INFO: WWW directory: C:\phpdesktop\phpdesktopchromephp\www
+- 20:29:03.000 INFO: Index files: index.html,index.php
+- 20:29:03.000 INFO: CGI interpreter: C:\phpdesktop\phpdesktopchromephp\php\php-cgi.exe
+- 20:29:03.000 INFO: CGI pattern: **.php$
+- 20:29:03.000 INFO: CGI environment variables set: TMP=C:\Users\JS\AppData\Local\Temp\,TEMP=C:\Users\JS\AppData\Local\Temp\,TMPDIR=C:\Users\JS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=31.8
+- 20:29:03.016 INFO: Web server url: http://127.0.0.1:50641/
+- 20:29:03.016 INFO: remote_debugging_port = 53021
+- 20:29:03.016 DEBUG: Command line string for the browser process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --remote-debugging-port=53021 --no-sandbox
+- 20:29:03.047 DEBUG: App::OnContextInitialized()
+- 20:29:03.047 DEBUG: Window max width/height = 1520/812
+- 20:29:03.047 DEBUG: GetBrowserWindow(): not found, hwnd = 3277552
+- 20:29:03.047 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 20:29:03.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 20:29:03.047 DEBUG: StoreBrowserWindow(): hwnd = 3277552
+- 20:29:03.078 DEBUG: BrowserWindow::OnSize() failed: CefBrowser object not created yet
+- 20:29:03.094 DEBUG: ClientHandler::OnAfterCreated()
+- 20:29:03.094 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 20:29:03.094 INFO: DPI, ppix = 96, ppiy = 96
+- 20:29:03.094 INFO: DPI, browser zoom level = 0
+- 20:29:03.110 DEBUG: OnLoadingStateChange: loading=1, url=
+- 20:29:03.000 DEBUG: Command line string for the gpu-process process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=gpu-process --channel="4900.0.215094773\1645706713" --no-sandbox --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-image-transport-surface --supports-dual-gpus=false --gpu-driver-bug-workarounds=0,3,12,22 --reduce-gpu-sandbox --gpu-vendor-id=0x8086 --gpu-device-id=0x2e32 --gpu-driver-vendor="Intel Corporation" --gpu-driver-version=8.15.10.1749 --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" /prefetch:822062411
+- 20:29:04.000 DEBUG: Command line string for the renderer process: "C:\phpdesktop\phpdesktopchromephp\phpdesktop-chrome.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\phpdesktop\phpdesktopchromephp\debug.log" --disable-accelerated-2d-canvas --channel="4900.1.1399463145\201464859" /prefetch:673131151
+- 20:29:04.016 DEBUG: OnBrowserCreated()
+- 20:29:05.203 DEBUG: OnContextCreated()
+- 20:29:05.360 INFO: GET 200 /
+- 20:29:05.360 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50641/
+- 20:29:05.360 DEBUG: OnLoadError, errorCode=-3, failedUrl=http://127.0.0.1:50641/
+- 20:29:05.375 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50641/
+- 20:29:05.328 DEBUG: OnContextCreated()
+- 20:29:05.485 INFO: GET 200 /appsystem/css/appsystem.css
+- 20:29:05.485 INFO: GET 200 /appsystem/css/jquerymobile-1.4.4.min.css
+- 20:29:05.500 INFO: GET 200 /appsystem/inf/design.php
+- 20:29:05.516 INFO: GET 200 /appsystem/css/jquery.mobile-1.4.4.min.css
+- 20:29:05.516 INFO: GET 200 /appsystem/js/jquery.js
+- 20:29:05.516 INFO: GET 200 /appsystem/js/appsystem.js
+- 20:29:05.688 INFO: GET 200 /appsystem/js/jquery.mobile-1.4.4.min.js
+[0818/202905:INFO:CONSOLE(297)] "Uncaught TypeError: Cannot call method 'addEventListener' of null", source: http://127.0.0.1:50641/appsystem/js/appsystem.js (297)
+- 20:29:05.797 INFO: GET 200 /appsystem/images/ux.jpg
+- 20:29:05.828 INFO: GET 200 /appsystem/css/images/ajax-loader.gif
+[0818/202905:INFO:CONSOLE(8)] "Uncaught ReferenceError: FastClick is not defined", source: http://127.0.0.1:50641/appsystem/js/appsystem.js (8)
+- 20:29:05.016 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50641/appsystem/inf/design.php
+- 20:29:07.188 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50641/appsystem/inf/design.php
+- 20:29:07.188 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50641/appsystem/inf/design.php#&ui-state=dialog
+- 20:29:07.188 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50641/appsystem/inf/design.php#&ui-state=dialog
+- 20:29:07.188 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50641/appsystem/inf/design.php#&ui-state=dialog
+- 20:29:09.688 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50641/appsystem/inf/design.php#&ui-state=dialog
+- 20:29:09.688 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50641/appsystem/inf/design.php
+- 20:29:10.672 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50641/appsystem/inf/design.php
+- 20:29:10.672 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50641/appsystem/inf/design.php#&ui-state=dialog
+- 20:29:10.672 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50641/appsystem/inf/design.php#&ui-state=dialog
+- 20:29:10.672 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50641/appsystem/inf/design.php#&ui-state=dialog
+- 20:29:11.750 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:50641/appsystem/inf/design.php#&ui-state=dialog
+- 20:29:11.672 DEBUG: OnContextCreated()
+- 20:29:11.828 INFO: GET 200 /appsystem/inf/menudesign.php
+- 20:29:11.985 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50641/appsystem/inf/menudesign.php
+- 20:29:19.313 DEBUG: WM_DESTROY
+- 20:29:19.313 DEBUG: RemoveBrowserWindow(): hwnd = 3277552
+- 20:29:19.313 INFO: Stopping Mongoose web server
+- 20:29:19.313 DEBUG: Mongoose webserver stopped immediately
+- 20:29:19.313 DEBUG: RemoveBrowserWindow(): hwnd = 4195064
+- 20:29:19.313 DEBUG: GetBrowserWindow(): not found, hwnd = 4195064
+- 20:29:19.313 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 20:29:19.203 DEBUG: OnBrowserDestroyed()
+- 20:29:19.360 INFO: Ended application
+- 20:29:19.360 INFO: --------------------------------------------------------
